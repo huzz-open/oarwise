@@ -26,12 +26,8 @@ If your AI client cannot accept archive attachments, save the file to your PC an
 
 ## 4. Connect your PC
 
-On the PC you want to connect, start a new local chat with the plugin enabled and say the following.
+If this PC needs authorization, open the device confirmation link in the installation reply. The link fills in the connection code for you. Sign in with your Oarwise account and select **Confirm connection**.
 
-> Call Oarwise's account_login and give me the verification link for this PC.
-
-Open the link the AI gives you, sign in with your activated Oarwise account, and confirm the connection. The link fills in the connection code for you.
-
-Return to the chat and ask the AI to check `account_status`. Once authorization succeeds, tell the AI which window to use and what you want it to do.
+Return to the same chat and tell the AI you have confirmed the connection. Once the AI verifies authorization, tell it which window to use and what you want it to do.
 
 For installation or account help, contact the shop with your order number. Keep activation codes, verification codes, and extraction passwords private.
