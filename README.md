@@ -19,7 +19,7 @@ Oarwise 行舟是一款适用于 Windows 的通用 AI 后台电脑操作插件�
 
 1. 付款后保存注册码和订单号，在 oarwise.com 使用邮箱完成验证并兑换注册码。
 2. 在个人信息页下载 Codex、DSH 或 Skill 加密 ZIP，解压密码会发送到权益账号邮箱，也可点击“重发解压密码”。
-3. 使用 7-Zip 和邮件中的对应版本密码解压。Codex 添加解压目录为本地插件市场，DSH 安装其中的 TGZ，Skill 交由能维持本地进程并处理取消事件的兼容 Agent 使用。
+3. 使用 7-Zip 和邮件密码解开外层 ZIP，再将内层 ZIP（Codex／Skill）或 TGZ（DSH）拖给对应 Agent，按包内 INSTALL.md 安装。官网自动提供当前安装包，无需更换店铺下载入口。
 4. 按插件提示在官网确认连接这台电脑，返回客户端检查授权状态，再指定目标窗口进行操作。
 
 [详细安装步骤](docs/installation.md) · [账号和设备管理](docs/account.md)
