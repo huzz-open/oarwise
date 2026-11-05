@@ -1,20 +1,22 @@
-# Oarwise 行舟
+# Oarwise
 
-Oarwise 行舟是一款适用于 Windows 的通用 AI 后台电脑操作插件，为 Codex、DSH 及兼容 Agent 提供指定窗口的截图、点击和输入能力。
+**English** · [简体中文](website.zh-CN.md)
 
-## 1. 后台处理，让操作互不打扰
+Oarwise is a Windows plugin that lets Codex, DSH, and compatible AI agents capture screenshots and send clicks and input to a selected window in the background.
 
-在支持的 Windows 应用中，可后台截图、点击和输入，不抢占键盘鼠标，不主动把任务窗口切到前台；兼容窗口最小化后仍可继续操作，让你在其他窗口处理工作。
+## 1. Keep working while the AI uses another window
 
-请搭配能够看懂截图并操作电脑的 AI 客户端使用。你告诉 AI 要做什么，由它借助行舟完成操作；使用效果取决于 AI 的能力和目标应用。
+In supported Windows apps, Oarwise can capture screenshots, click, and enter text in the background while you keep using your keyboard and mouse in another window. It leaves the target window in the background and can continue working when compatible windows are minimized.
 
-## 2. 安装与使用
+Use an AI client that can interpret screenshots and operate your computer. Tell the AI what you want to do, and it uses Oarwise to carry out the task. Results depend on the AI and the target app.
 
-1. 付款后保存注册码和订单号，在 oarwise.com 使用邮箱完成验证并兑换注册码。
-2. 在个人信息页下载 Codex、DSH 或 Skill 加密 ZIP，解压密码会发送到权益账号邮箱，也可点击“重发解压密码”。
-3. 使用 7-Zip 和邮件里的密码解压，再把得到的压缩包拖入 AI 对话，告诉它：“请帮我安装行舟。”
-4. 按插件提示在官网确认连接这台电脑，返回客户端检查授权状态，再指定目标窗口进行操作。
+## 2. Install and use
 
-适用于 Windows 桌面应用，不支持 macOS、Linux 或手机系统。具体应用的截图、输入和最小化能力需要实际验证。本商品不包含 AI 订阅、API 额度或其他软件账号。
+1. After purchase, keep your activation code and order number. Verify your email address at oarwise.com and redeem the code.
+2. Download the encrypted Codex, DSH, or Skill ZIP from your account page. The extraction password is sent to your account email address. You can also select **Resend password**.
+3. Extract the download with 7-Zip and the password from the email. Drag the resulting archive into your AI chat and say, “Please install Oarwise for me.”
+4. Follow the plugin prompts to confirm the connection on the Oarwise website. Return to your AI client, check the authorization status, and specify the target window.
 
-[官网](https://oarwise.com) · [安装指南](../docs/installation.md) · [使用条件](../docs/product.md) · [用户反馈](https://github.com/huzz-open/oarwise/issues)
+Oarwise works with Windows desktop apps. macOS, Linux, and mobile operating systems are unsupported. Test screenshot capture, input, and minimized-window operation in the app you plan to use. The plugin does not include AI subscriptions, API credits, or accounts for other software.
+
+[Website](https://oarwise.com) · [Installation guide](../docs/installation.md) · [Requirements](../docs/product.md) · [Feedback](https://github.com/huzz-open/oarwise/issues)

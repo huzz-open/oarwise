@@ -1,17 +1,19 @@
-# 账号与设备
+# Account and devices
 
-## 1. 激活与续期
+**English** · [简体中文](account.zh-CN.md)
 
-邮箱是登录账号。首次注册需要有效注册码及邮箱验证。已有账号登录后可在个人信息页兑换新码。权益和设备名额以官网显示为准。
+## 1. Activation and renewal
 
-## 2. 下载与密码
+Use your email address to sign in. To register, verify your email address and redeem a valid activation code. If you already have an account, sign in and redeem your new code on the account page. Check that page for your current plan and device limit.
 
-登录并激活账号后，可在个人信息页下载安装包。解压密码和安装步骤会发送到账号邮箱；没有收到时，点击“重发解压密码”。安装后按提示连接这台电脑，即可开始使用。
+## 2. Downloads and passwords
 
-## 3. 设备管理
+Once you have signed in and activated your account, download the installer from the account page. The password and installation steps are sent to your account email address. If you do not receive the email, select **Resend password**. After installation, follow the prompts to connect your PC.
 
-一年权益支持 3 台设备，三年权益支持 5 台设备，永久权益支持 10 台设备。可查看、备注和解除设备连接。换机后可在官网确认新设备，名额已满时按页面提示替换旧设备。
+## 3. Manage devices
 
-## 4. 获取帮助
+The one-year plan supports 3 devices, the three-year plan supports 5, and the lifetime plan supports 10. You can view connected devices, add notes, and disconnect devices. When you switch PCs, confirm the new device on the website. If you have reached your limit, follow the prompts to replace a device.
 
-账号、注册码、邮件或订单问题，请通过购买渠道核查订单。公开 Issues 适合功能问题和建议，提交截图时遮盖邮箱验证码、注册码、解压密码和个人信息。
+## 4. Get help
+
+For account, activation code, email, or order problems, contact the seller to check your order. Use public GitHub Issues to report product problems or suggest features. Remove verification codes, activation codes, extraction passwords, and personal information from any screenshots you submit.

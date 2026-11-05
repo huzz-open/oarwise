@@ -1,21 +1,23 @@
-# 常见问题
+# Frequently asked questions
 
-## 1. 去哪里找解压密码？
+**English** · [简体中文](faq.zh-CN.md)
 
-请查看账号邮箱中的安装邮件。没有收到时，可在[个人信息页](https://oarwise.com/account)点击“重发解压密码”，然后使用 7-Zip 解压下载的文件。
+## 1. Where is the extraction password?
 
-## 2. 解压成功后为什么还不能使用？
+Look for the installation email in your account inbox. If you did not receive it, select **Resend password** on your [account page](https://oarwise.com/account). Use 7-Zip to extract the downloaded file.
 
-解压后还需要安装。把得到的压缩包拖给 AI，告诉它“请帮我安装行舟”。安装完成后，按提示登录并连接这台电脑。
+## 2. What do I do after extraction?
 
-## 3. 是否包含 AI 订阅？
+Drag the extracted archive into your AI chat and say, “Please install Oarwise for me.” After installation, follow the prompts to sign in and connect your PC.
 
-不包含。请自行准备 Codex、DSH 等 AI 客户端所需的订阅或使用额度。
+## 3. Is an AI subscription included?
 
-## 4. 是否支持所有应用？
+No. You need your own subscription or usage credits for your AI client, such as Codex or DSH.
 
-不同应用的支持情况可能不同，部分应用支持最小化操作。遇到问题时，请说明使用的应用、电脑系统和操作步骤，方便客服协助排查。
+## 4. Does Oarwise support every app?
 
-## 5. 如何更新？
+Support varies by app. Some apps can be controlled while minimized. If you run into a problem, include the app name, your Windows version, and the steps you took so support can investigate.
 
-在个人信息页重新下载安装包，用安装邮件里的密码解压。把得到的压缩包交给 AI，告诉它“请帮我更新行舟”。完成后打开新对话使用。
+## 5. How do I update?
+
+Download the installer again from your account page. Extract it with the password from the installation email, give the resulting archive to your AI, and say, “Please update Oarwise for me.” Start a new chat after the update finishes.

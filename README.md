@@ -1,41 +1,43 @@
-# Oarwise 行舟
+# Oarwise
 
-Oarwise 行舟是一款适用于 Windows 的通用 AI 后台电脑操作插件，为 Codex、DSH 及兼容 Agent 提供指定窗口的截图、点击和输入能力。
+**English** · [简体中文](README.zh-CN.md)
 
-[官网](https://oarwise.com) · [账号与下载](https://oarwise.com/account) · [安装指南](docs/installation.md) · [问题反馈](https://github.com/huzz-open/oarwise/issues/new/choose)
+Oarwise is a Windows plugin that lets Codex, DSH, and compatible AI agents capture screenshots and send clicks and input to a selected window in the background.
 
-## 1. 可以做什么
+[Website](https://oarwise.com) · [Account and downloads](https://oarwise.com/account) · [Installation guide](docs/installation.md) · [Feedback](https://github.com/huzz-open/oarwise/issues/new/choose)
 
-在支持的 Windows 应用中，可后台截图、点击和输入，不抢占键盘鼠标，不主动把任务窗口切到前台；兼容窗口最小化后仍可继续操作，让你在其他窗口处理工作。
+## 1. What you can do
 
-- 发现并绑定指定程序窗口。
-- 获取完整或局部截图，导出图片供 AI 查看。
-- 后台点击、输入文字、按键、滚动和拖拽。
-- 按聊天会话管理资源，结束或取消时清理。
+In supported Windows apps, Oarwise can capture screenshots, click, and enter text in the background while you keep using your keyboard and mouse in another window. It leaves the target window in the background and can continue working when compatible windows are minimized.
 
-请搭配能够看懂截图并操作电脑的 AI 客户端使用。你告诉 AI 要做什么，由它借助行舟完成操作；使用效果取决于 AI 的能力和目标应用。
+- Find and attach to a specific app window.
+- Capture the entire window or a selected region and export the image for the AI to review.
+- Click, type, press keys, scroll, and drag in the background.
+- Keep resources scoped to each chat session and release them when the session ends or is canceled.
 
-## 2. 安装与激活
+Use an AI client that can interpret screenshots and operate your computer. Tell the AI what you want to do, and it uses Oarwise to carry out the task. Results depend on the AI and the target app.
 
-1. 付款后保存注册码和订单号，在 oarwise.com 使用邮箱完成验证并兑换注册码。
-2. 在个人信息页下载 Codex、DSH 或 Skill 加密 ZIP，解压密码会发送到权益账号邮箱，也可点击“重发解压密码”。
-3. 使用 7-Zip 和邮件里的密码解压，再把得到的压缩包拖入 AI 对话，告诉它：“请帮我安装行舟。”
-4. 按插件提示在官网确认连接这台电脑，返回客户端检查授权状态，再指定目标窗口进行操作。
+## 2. Install and activate
 
-[详细安装步骤](docs/installation.md) · [账号和设备管理](docs/account.md)
+1. After purchase, keep your activation code and order number. Verify your email address at oarwise.com and redeem the code.
+2. Download the encrypted Codex, DSH, or Skill ZIP from your account page. The extraction password is sent to your account email address. You can also select **Resend password**.
+3. Extract the download with 7-Zip and the password from the email. Drag the resulting archive into your AI chat and say, “Please install Oarwise for me.”
+4. Follow the plugin prompts to confirm the connection on the Oarwise website. Return to your AI client, check the authorization status, and specify the target window.
 
-## 3. 选择安装包
+[Detailed installation guide](docs/installation.md) · [Account and device management](docs/account.md)
 
-在[个人信息页](https://oarwise.com/account)选择与你使用的 AI 客户端对应的 Codex、DSH 或 Skill 安装包，下载一个即可。
+## 3. Choose an installer
 
-Skill 包适用于能在 Windows 电脑上安装 Skill 的 AI 客户端，普通网页聊天无法直接安装。
+On your [account page](https://oarwise.com/account), download the single package that matches your AI client.
 
-## 4. 文档和反馈
+The Skill package requires an AI client that supports installing Skills on your Windows PC. A regular browser chat cannot install it directly.
 
-- [产品说明与使用条件](docs/product.md)
-- [常见问题](docs/faq.md)
-- [官网产品介绍](marketing/website.md)
-- [16688 商品说明](marketing/16688.md)
-- [报告问题或提出建议](https://github.com/huzz-open/oarwise/issues/new/choose)
+## 4. Documentation and feedback
 
-适用于 Windows 桌面应用，不支持 macOS、Linux 或手机系统。具体应用的截图、输入和最小化能力需要实际验证。本商品不包含 AI 订阅、API 额度或其他软件账号。
+- [Product overview and requirements](docs/product.md)
+- [Frequently asked questions](docs/faq.md)
+- [Website product overview](marketing/website.md)
+- [16688 product listing](marketing/16688.md)
+- [Report an issue or suggest a feature](https://github.com/huzz-open/oarwise/issues/new/choose)
+
+Oarwise works with Windows desktop apps. macOS, Linux, and mobile operating systems are unsupported. Test screenshot capture, input, and minimized-window operation in the app you plan to use. The plugin does not include AI subscriptions, API credits, or accounts for other software.

@@ -1,42 +1,44 @@
-# 产品说明与使用条件
+# Product overview and requirements
 
-## 1. 产品能力
+**English** · [简体中文](product.zh-CN.md)
 
-Oarwise 行舟是一款适用于 Windows 的通用 AI 后台电脑操作插件，为 Codex、DSH 及兼容 Agent 提供指定窗口的截图、点击和输入能力。
+## 1. What Oarwise does
 
-在支持的 Windows 应用中，可后台截图、点击和输入，不抢占键盘鼠标，不主动把任务窗口切到前台；兼容窗口最小化后仍可继续操作，让你在其他窗口处理工作。
+Oarwise is a Windows plugin that lets Codex, DSH, and compatible AI agents capture screenshots and send clicks and input to a selected window in the background.
 
-请搭配能够看懂截图并操作电脑的 AI 客户端使用。你告诉 AI 要做什么，由它借助行舟完成操作；使用效果取决于 AI 的能力和目标应用。
+In supported Windows apps, Oarwise can capture screenshots, click, and enter text in the background while you keep using your keyboard and mouse in another window. It leaves the target window in the background and can continue working when compatible windows are minimized.
 
-## 2. 使用条件
+Use an AI client that can interpret screenshots and operate your computer. Tell the AI what you want to do, and it uses Oarwise to carry out the task. Results depend on the AI and the target app.
 
-适用于 Windows 桌面应用，不支持 macOS、Linux 或手机系统。具体应用的截图、输入和最小化能力需要实际验证。本商品不包含 AI 订阅、API 额度或其他软件账号。
+## 2. Requirements
 
-## 3. 购买与售后
+Oarwise works with Windows desktop apps. macOS, Linux, and mobile operating systems are unsupported. Test screenshot capture, input, and minimized-window operation in the app you plan to use. The plugin does not include AI subscriptions, API credits, or accounts for other software.
 
-数字注册码发货后不退不换。注册码无效、重复或错误交付、产品质量问题等，按法律及平台规则处理；请保留订单号联系店铺客服。购买前确认系统、客户端、模型与目标应用兼容性。
+## 3. Purchase and support
 
-## 使用范围与风险
+Digital activation codes cannot be returned or exchanged after delivery. Invalid codes, duplicate or incorrect delivery, and product quality issues are handled under applicable law and platform rules. Keep your order number and contact the shop for help. Before buying, check compatibility with your operating system, AI client, model, and target app.
 
-请仅在已获得必要授权、且法律及目标软件或平台规则允许的范围内使用。购买插件不代表获得第三方平台的自动化许可，技术上可以操作不代表该用途被允许。
+## Acceptable use and risks
 
-禁止以下用途：
+Use Oarwise only where you have the required authorization and where applicable law and the rules of the target software or platform allow it. A purchase grants no permission to automate third-party platforms. Technical capability does not establish permission for a particular use.
 
-- 游戏自动化，包括外挂、挂机、代练、打金、作弊及规避反作弊检测。
-- 刷量、刷单、虚假交易、违规批量注册，以及违反平台规则的抢购、抢票或资源占用。
-- 绕过登录授权、付费限制、验证码、访问控制、平台风控或其他安全防护。
-- 未经授权访问、抓取、复制、修改或传播他人数据，侵犯隐私、个人信息、知识产权或商业秘密。
-- 发送垃圾信息、骚扰、诈骗、冒充他人，或实施其他损害个人、组织及平台合法权益的行为。
-- 攻击、破坏或干扰系统和服务，恶意消耗资源，或实施其他违法违规行为。
+Prohibited uses include the following.
 
-目标平台可能因自动化行为实施验证、限流、功能限制、账号冻结或封禁。行舟不提供隐藏自动化、绕过检测、保证不封号或解封账号的服务。
+- Game automation, including cheat tools, unattended play, account boosting, farming in-game currency, cheating, and evading anti-cheat detection.
+- Artificially inflating engagement or orders, creating fake transactions, registering accounts in bulk in violation of rules, or buying goods, obtaining tickets, or reserving resources in ways that violate platform rules.
+- Bypassing sign-in or authorization, paywalls, CAPTCHAs, access controls, platform safeguards, or other security measures.
+- Accessing, scraping, copying, changing, or distributing other people's data without permission, or infringing privacy, personal information rights, intellectual property rights, or trade secrets.
+- Sending spam, harassing or defrauding others, impersonating people, or otherwise harming the legal rights and interests of people, organizations, or platforms.
+- Attacking, damaging, or disrupting systems and services, maliciously consuming resources, or engaging in other unlawful or prohibited activity.
 
-AI 可能误判画面或执行错误操作。涉及发送、删除、提交或其他重要变更时，应先核对内容、保留必要备份，并按需人工确认。
+Platforms may respond to automation with verification checks, rate limits, feature restrictions, account freezes, or bans. Oarwise offers no service to conceal automation, bypass detection, guarantee that accounts will avoid bans, or restore banned accounts.
 
-因使用者违反法律、目标平台规则、超出授权范围或其他不当使用导致的账号限制、冻结、封禁及相关损失，由使用者依法承担相应责任。对于仅由上述违规使用行为造成的后果，我们不承担赔偿责任。本说明不免除我们因产品缺陷、违约、故意或重大过失等依法应承担的责任，也不限制用户依法享有的售后与索赔权利。
+AI can misread the screen or take the wrong action. Before sending, deleting, submitting, or making another significant change, review the details, keep any necessary backups, and confirm the action manually when appropriate.
 
-## 永久权益持续使用保障
+Users are legally responsible for account restrictions, freezes, bans, and related losses arising from violations of law or platform rules, use beyond their authorization, or other misuse. We are not liable for consequences caused solely by that misuse. This statement does not waive any legal liability we have for product defects, breach of contract, intentional misconduct, or gross negligence, and it does not limit users' legal rights to after-sales remedies or compensation.
 
-若未来停止运营，我们将先为永久版用户落实可继续使用的交付方案（包括但不限于提供核心源码），再停止相关服务，确保已购使用权益不会因我们的停止运营而失效。
+## Continued access for lifetime customers
 
-正常运营期间，我们持续维护已售有效权益所需的授权服务。持续使用方案将在停止相关服务前落实，并提供必要的运行说明；若采用源码交付，应具备完整构建与运行条件。
+If we stop operating Oarwise, we will put a solution in place for lifetime customers before shutting down the relevant services. This may include releasing the core source code. The solution will preserve the access these customers purchased.
+
+While Oarwise remains in operation, we maintain the authorization services needed for active plans. We will implement the continued access solution and provide the necessary instructions before shutting down the relevant services. If we provide source code, it will include everything needed to build and run the software.
