@@ -1,0 +1,26 @@
+name: 问题反馈
+description: 报告安装、截图、输入或会话清理问题
+title: "[问题] "
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: 系统、客户端和插件版本
+      placeholder: Windows 11，Codex 或 DSH，Computer Use Ext 1.0.3
+    validations:
+      required: true
+  - type: input
+    id: application
+    attributes:
+      label: 目标应用及版本
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、预期结果与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 脱敏截图或错误码
+      description: 请遮盖邮箱验证码、注册码、解压密码和个人信息。
