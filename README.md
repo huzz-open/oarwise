@@ -6,6 +6,15 @@ Oarwise is a Windows plugin that lets Codex, DSH, and compatible AI agents captu
 
 [Website](https://oarwise.com) · [Account and downloads](https://oarwise.com/account) · [Installation guide](docs/installation.md) · [Feedback](https://github.com/huzz-open/oarwise/issues/new/choose)
 
+## Recorded demos
+
+See when regular computer-use brings an app to the foreground and how Oarwise runs the same kind of task while Codex stays visible. The clips have Simplified Chinese captions.
+
+| Sublime Text · Write and save a poem | Godot · Build and test a 4096 game |
+| --- | --- |
+| [![Sublime Text switches to the foreground on the left while Codex stays visible on the right](docs/demos/sublime-text.gif)](docs/demos/sublime-text.mp4) | [![The Godot game appears in the foreground on the left while Codex stays visible on the right](docs/demos/godot-4096.gif)](docs/demos/godot-4096.mp4) |
+| [Full video (36 s)](docs/demos/sublime-text.mp4) | [Full video (47 s)](docs/demos/godot-4096.mp4) |
+
 ## 1. What you can do
 
 In supported Windows apps, Oarwise can capture screenshots, click, and enter text in the background while you keep using your keyboard and mouse in another window. It leaves the target window in the background and can continue working when compatible windows are minimized.

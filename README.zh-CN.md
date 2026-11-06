@@ -6,6 +6,15 @@ Oarwise 行舟是一款适用于 Windows 的通用 AI 后台电脑操作插件�
 
 [官网](https://oarwise.com) · [账号与下载](https://oarwise.com/account) · [安装指南](docs/installation.zh-CN.md) · [问题反馈](https://github.com/huzz-open/oarwise/issues/new/choose)
 
+## 后台操作实录
+
+左侧使用原始 computer-use，目标窗口会切到前台。右侧使用 computer-use-ext，任务在后台执行，前台仍显示 Codex。
+
+| Sublime Text 写诗并保存 | Godot 4096 游戏验证 |
+| --- | --- |
+| [![左侧 Sublime Text 切到前台，右侧仍显示 Codex](docs/demos/sublime-text.gif)](docs/demos/sublime-text.mp4) | [![左侧 Godot 游戏弹到前台，右侧仍显示 Codex](docs/demos/godot-4096.gif)](docs/demos/godot-4096.mp4) |
+| [完整视频（36 秒）](docs/demos/sublime-text.mp4) | [完整视频（47 秒）](docs/demos/godot-4096.mp4) |
+
 ## 1. 可以做什么
 
 在支持的 Windows 应用中，可后台截图、点击和输入，不抢占键盘鼠标，不主动把任务窗口切到前台；兼容窗口最小化后仍可继续操作，让你在其他窗口处理工作。
